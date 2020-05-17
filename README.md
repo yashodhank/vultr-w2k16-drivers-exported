@@ -16,3 +16,9 @@ foreach($inf in $infs){
     pnputil.exe -i -a ""$inf.FullName""
 }
 ```
+
+### Archive provides only necessary VirtIO Drivers for your custom Windows Server 2016 Installation disk/iso to be imported using NTLite for Vultr
+``
+Filename:
+Standard PC (i440FX + PIIX, 1996) 5-17-2020 2-30-11 PM.zip
+```
